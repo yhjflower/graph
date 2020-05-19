@@ -23,6 +23,7 @@ def schedulecost(sol):
 
 
 
+
 # 随机搜索算法
 def randomoptimize(costf):
     best = 0
